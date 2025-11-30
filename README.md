@@ -8,24 +8,25 @@
   </p>
 </div>
 
-###
-<div align="right">
+---
+
+<div align="left">
   <p>My name is Alex and I'm a Computer Science student<br>at the University of Texas at Austin.</p>
 </div>
 
-###
-
-<div align="left">
+<div align="right">
   <p>I'm interested in backend systems/infrastructure,<br>CLI tools, & open source software.</p>
 </div>
 
-###
-
-<div align="right">
+<div align="left">
   <p>I'm currently working on <a href="https://github.com/yhoundz/parm">parm</a>.</p>
 </div>
 
-###
+<div align="right">
+  <p>I'm open to Summer 2026 SWE opportunities.<br>Reach out to me <a href="https://yhoundz.github.io/#contact">here</a>.</p>
+</div>
+
+---
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=go" height="26" alt="go logo"  />
@@ -40,11 +41,13 @@
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=neovim" height="26" alt="neovim logo"  />
   <img width="14" />
+  <img src="https://skillicons.dev/icons?i=git" height="26" alt="git logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=linux" height="26" alt="linux logo"  />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=github" height="26" alt="github logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=githubactions" height="26" alt="githubactions logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=git" height="26" alt="git logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=ts" height="26" alt="typescript logo"  />
   <img width="14" />
