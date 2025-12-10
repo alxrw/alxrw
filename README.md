@@ -9,7 +9,7 @@
 ---
 
 <div align="left">
-  <p>My name is Alex and I'm a Computer Science student<br>at the University of Texas at Austin.</p>
+  <p>Hi, My name is Alex and I'm a Computer Science student<br>at the University of Texas at Austin.</p>
 </div>
 
 <div align="right">
