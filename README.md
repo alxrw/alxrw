@@ -17,11 +17,11 @@
 </div>
 
 <div align="left">
-  <p>I'm currently working on <a href="https://github.com/yhoundz/parm">parm</a>.</p>
+  <p>I'm currently working on <a href="https://github.com/alxrw/parm">parm</a>.</p>
 </div>
 
 <div align="right">
-  <p>I'm open to Summer 2026 SWE opportunities.<br>Reach out to me <a href="https://yhoundz.github.io/#contact">here</a>.</p>
+  <p>I'm open to Summer 2026 SWE opportunities.<br>Reach out to me <a href="https://alxrw.github.io/#contact">here</a>.</p>
 </div>
 
 ---
